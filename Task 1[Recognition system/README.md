@@ -26,7 +26,7 @@ A real-time AI system that uses face recognition to mark attendance automaticall
 ## How to Run
 
 ## Install dependencies
-``bash
+```bash
       pip install streamlit opencv-python face-recognition numpy pandas
 
 ### Add dataset
