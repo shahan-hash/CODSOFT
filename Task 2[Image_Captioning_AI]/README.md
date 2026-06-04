@@ -77,6 +77,11 @@ python -m streamlit run app/app.py
 ```
 
 ---
+## Note
+
+The trained model file (caption_model.keras) is not included in this repository due to file size limitations.
+
+The project code, training pipeline, and Streamlit application are fully included.
 
 ## Author
 
