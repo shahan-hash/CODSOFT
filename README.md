@@ -16,8 +16,8 @@ A real-time AI system that detects faces using webcam and automatically marks at
 ### 🖼️ Task 2: Image Captioning System
 An AI model that generates captions for input images using deep learning.
 
-### 🎯 Task 3: Recommendation System
-A machine learning-based system that suggests items/content based on user preferences.
+### 🎯 Task 3: ChatBot 
+A smart conversational chatbot developed using rule-based logic, pattern matching, and Streamlit for an interactive user experience.
 
 ---
 
